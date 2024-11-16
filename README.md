@@ -1,6 +1,24 @@
-# PovertyHelpSystem_front
-精准扶贫管理系统可以对贫困人员和帮扶志愿者信息进行信息管理，同时还可以根据贫困人员的需求和志愿者提供的服务进行匹配，为每一个贫困人员分配帮扶志愿者。
+# vue-project1
 
-项目采用前后端分离方式，这是前端部分，负责进行人员信息操作选择，同时向后端发送请求。
+## Project setup
+```
+npm install
+```
 
-后端网址：https://github.com/woyaochengweichengxugaoshou/PovertyHelpSystem_back
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
