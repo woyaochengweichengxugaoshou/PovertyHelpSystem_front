@@ -4,4 +4,6 @@
 
 项目采用vue2框架并使用Element组件库。
 
+/src/views/elements目录下的代码是本项目的核心代码。
+
 后端网址：https://github.com/woyaochengweichengxugaoshou/PovertyHelpSystem_back
